@@ -1,0 +1,3 @@
+- al momento que se ejecuta el script en GENERATOR funciona correctamente el flujo automatizado.
+- posterior se configura y se ejecuta el mismo proyecto en el paplicativo CONTROLER con 4 VU lo cual nos arroja un TimeOut en inicializacion de los VUS (esto en algun momento funcionó) 
+no se llega a inicial ningun VU y se arroja el Error de TimeOut 
